@@ -155,7 +155,7 @@ This auxiliary model handles severity classification with multiple labels:
 ## ⚙️ Setup Instructions
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/yben409/Computer-Vision-Cochineal-Detection.git
 cd cactus_infection_project
 
 # Setup environment
